@@ -1,6 +1,6 @@
 ![Banner](https://media.tenor.com/images/5d58bc1ea2ab1131b8d1a650d7510f0f/tenor.gif)
 
-# 👋 Hi, I'm sendthepainbelow / Chloe Houghton
+# 👋 Hi, I'm sendthepainbelow / Farid Sergeyev
 
 Programmer · Security Researcher · Based in the UK
 
@@ -33,4 +33,3 @@ I write system level code in **Rust**, **C**, and **C++**, with a focus on safet
 
 ---
 
-> “unathorized access is for newbiez” 
